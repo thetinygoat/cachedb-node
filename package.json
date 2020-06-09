@@ -13,5 +13,8 @@
     "package"
   ],
   "author": "Sachin Saini",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
