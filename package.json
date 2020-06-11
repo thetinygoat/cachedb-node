@@ -1,20 +1,27 @@
 {
-  "name": "@cachedb-node/cachedb",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "cachedb",
-    "cachedb client",
-    "npm",
-    "package"
-  ],
-  "author": "Sachin Saini",
-  "license": "GPL-3.0",
-  "dependencies": {
-    "axios": "^0.19.2"
-  }
+	"name": "@cachedb-node/cachedb",
+	"version": "0.1.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"cachedb",
+		"cachedb client",
+		"npm",
+		"package"
+	],
+	"bugs": {
+		"url": "https://github.com/thetinygoat/cachedb-node/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thetinygoat/cachedb-node.git"
+	},
+	"author": "Sachin Saini",
+	"license": "GPL-3.0",
+	"dependencies": {
+		"axios": "^0.19.2"
+	}
 }
